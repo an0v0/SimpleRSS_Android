@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_margin">8dp</dimen>
+    <dimen name="thumbnail_size">120dp</dimen>
+    <dimen name="list_item_height">136dp</dimen>
+    <dimen name="list_contents_height">14dp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+</resources>

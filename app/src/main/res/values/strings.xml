@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleRSS</string>
+
+    <string name="msg_input_rss_feed">RSSフィードのURLを入力</string>
+    <string name="btn_submit">登録</string>
+    <string name="btn_cancel">キャンセル</string>
+</resources>
